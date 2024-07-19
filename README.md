@@ -58,7 +58,7 @@ Develop a robust chat room system using JavaScript, Node.js, MySQL, and Express.
 
 1. **Clone the repository:**
    ```sh
-   git clone [https://github.com/yourusername/chat-room-system.git](https://github.com/surya123866/CHAT-APP.git)
+   git clone https://github.com/yourusername/chat-room-system.git
    cd chat-room-system
 
 2.**Install dependencies:**
